@@ -15,7 +15,7 @@
 
 - Building my first little web projects 🐣
 - Learning how to make things pretty with CSS ✨
-- E-Commerce Start-Up project (deus_ex_machina)
+- E-Commerce Start-Up Project
 - Dreaming about making my own game someday... maybe. 👾
 
 ---
