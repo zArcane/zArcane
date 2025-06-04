@@ -22,11 +22,9 @@
 
 ## 🧁 Tech Sprinkles
 
-<skills>
-  HTML 🍓 Beginner  
-  CSS 🍬 Learning flex & grid  
-  JavaScript 🍪 Coming soon...  
-</skills>
+<strong>HTML</strong> 🍓 Beginner  
+<strong>CSS</strong> 🍬 Learning flex & grid  
+<em>JavaScript</em> 🍪 Coming soon...  
 
 ---
 
