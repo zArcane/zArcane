@@ -1,8 +1,4 @@
-<h1 align="center">🌸 Hey there, I’m <em>Dante</em>! 💻🎮</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&multiline=true&width=435&lines=🌼+Web+Dev+in+Training+🌼;💖+HTML+%2B+CSS+Explorer+💖;🎮+Gamer+with+a+Tech+Heart+🎮" alt="Typing SVG" />
-</p>
+<h1 align="center">💻 Hey there, I’m <em>Dante</em>! 🎮</h1>
 
 ---
 
