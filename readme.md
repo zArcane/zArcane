@@ -28,7 +28,7 @@
 
 ---
 
-## 📚 My Cozy Goals
+## 📚 My Goals
  
  - Master the art of responsive layouts 📱
  - Make a personal portfolio site 🎀
