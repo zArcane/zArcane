@@ -39,4 +39,4 @@
 - ✉️ Send me a message:  
   💗 <a href="mailto:danteagustinlombard@gmail.com">**danteagustinlombard@gmail.com**</a> 💗
 
-<p align="center"> <img src="https://i.pinimg.com/originals/70/cc/e5/70cce5b7f91f178e67b9673e169d8e40.gif" width="200px" alt="Chill animated pixel art" /> </p> <p align="center"> <em>“Be kind, keep learning, and never underestimate the power of a <strong>website</strong>.”</em> 🌟 </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/70/cc/e5/70cce5b7f91f178e67b9673e169d8e40.gif" width="200px" alt="animated pixel art" /> </p> <p align="center"> <em>“Be kind, keep learning, and never underestimate the power of a <strong>website</strong>.”</em> 🌟 </p>
