@@ -1,42 +1,62 @@
-<h1 align="center">Hey there, I’m <em>Dante</em></h1>
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2cb977,100:6b29c2&text=Hey%20there,%20I'm%20Dante&section=header&reversal=false&fontAlignY=42" alt="banner" />
+</p>
 
 ## 💫 About Me
 
-✨ I'm currently diving into the world of **HTML** and **CSS**  
-🎮 I adore everything related to **video games**, especially the ones with pixel art and immersive worlds  
-🧠 Passionate about **technology** — the more blinking lights, the better
-🌸 Trying to make the internet a cuter place.  
+- ✨ I'm currently diving into the world of **HTML** and **CSS**  
+- 🎮 I love **pixel art** and atmospheric indie games
+- 💻 I enjoy exploring how websites are made
+- 🖋️ I also write stories.
+- 🌷 I believe the web can be functional *and* beautiful
+
+---
+
+## 🧁 Tech & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,github,vscode" />
+</p>
+
+| Technology | Status |
+|------------|--------|
+| **HTML**   | 🍓 Beginner |
+| **CSS**    | 🍬 Learning Flex & Grid |
+| *JavaScript* | 🍪 Coming soon... |
 
 ---
 
 ## 🌈 Currently Working On
 
-- Building my first little web projects 🐣
-- Learning how to make things pretty with CSS ✨
-- E-Commerce Start-Up Project
-- Dreaming about making my own game someday... maybe. 👾
-
----
-
-## 🧁 Tech Sprinkles
-
-<strong>HTML</strong> 🍓 Beginner  
-<strong>CSS</strong> 🍬 Learning flex & grid  
-<em>JavaScript</em> 🍪 Coming soon...  
+- 🐣 My first little web projects  
+- ✨ Learning how to make things pretty with CSS
+- 🛍 A small **e-commerce** start-up project  
+- 👾 Dreaming about making my own game someday... maybe.
 
 ---
 
 ## 📚 My Goals
- 
+
  - Master the art of responsive layouts 📱
  - Make a personal portfolio site 🎀
  - Learn a JS framework 🚀
  - Stay consistent 🌱
 
-# Let's Connect
-- ✉️ Send me a message:  
-  💗 <a href="mailto:danteagustinlombard@gmail.com">**danteagustinlombard@gmail.com**</a> 💗
 
-<p align="center"> <img src="https://i.pinimg.com/originals/70/cc/e5/70cce5b7f91f178e67b9673e169d8e40.gif" width="200px" alt="animated pixel art" /> </p> <p align="center"> <em>“Be kind, keep learning, and never underestimate the power of a <strong>website</strong>.”</em> 🌟 </p>
+---
+
+## 🌸 Let's Connect
+
+<p align="center">
+  <a href="mailto:danteagustinlombard@gmail.com">
+    <img src="https://img.shields.io/badge/email-danteagustinlombard@gmail.com-ff6f91?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="400px" alt="pixel art gif" /><br>
+ <!-- source: https://www.reddit.com/r/perfectloops/comments/9376vf/smoke_in_the_rain/-->
+  <em>“Be kind, keep learning, and never underestimate the power of <strong>art</strong>.”</em>
+</p>
